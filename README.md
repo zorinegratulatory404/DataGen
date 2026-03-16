@@ -7,10 +7,10 @@
 > Smart Dataset Engine
 > Built for Developers & Testers
 
-[![GitHub stars](https://img.shields.io/github/stars/mrdigitalmonk/Testing?style=for-the-badge&color=yellow)](https://github.com/mrdigitalmonk/Testing/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mrdigitalmonk/Testing?style=for-the-badge&color=orange)](https://github.com/mrdigitalmonk/Testing/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/mrdigitalmonk/Testing?style=for-the-badge&color=red)](https://github.com/mrdigitalmonk/Testing/issues)
-[![GitHub repo size](https://img.shields.io/github/repo-size/mrdigitalmonk/Testing?style=for-the-badge&color=blue)](https://github.com/mrdigitalmonk/Testing)
+[![GitHub stars](https://img.shields.io/github/stars/mrdigitalmonk/DataGen?style=for-the-badge&color=yellow)](https://github.com/mrdigitalmonk/DataGen/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mrdigitalmonk/DataGen?style=for-the-badge&color=orange)](https://github.com/mrdigitalmonk/DataGen/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/mrdigitalmonk/DataGen?style=for-the-badge&color=red)](https://github.com/mrdigitalmonk/DataGen/issues)
+[![GitHub repo size](https://img.shields.io/github/repo-size/mrdigitalmonk/DataGen?style=for-the-badge&color=blue)](https://github.com/mrdigitalmonk/DataGen)
 
 ---
 
@@ -45,8 +45,8 @@
 ## ⚙️ Installation
 
 ```bash
-git clone [https://github.com/mrdigitalmonk/Testing](https://github.com/mrdigitalmonk/Testing)
-cd Testing
+git clone [https://github.com/mrdigitalmonk/DataGen](https://github.com/mrdigitalmonk/DataGen)
+cd DataGen
 pip install -r requirements.txt
 python3 datagen.py
 ```
@@ -73,13 +73,13 @@ python3 datagen.py
 ## 🔗 Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-DigitalMonk-181717?style=for-the-badge&logo=github)](https://github.com/mrdigitalmonk)
-[![Telegram](https://img.shields.io/badge/Telegram-Eddie_Edward-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/monkrk)
+[![Telegram](https://img.shields.io/badge/Telegram-MrMONK-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/monkrk)
 
 ---
 
 ## 👀 Visitors
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mrdigitalmonk.Testing)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mrdigitalmonk.DataGen)
 
 ---
 
